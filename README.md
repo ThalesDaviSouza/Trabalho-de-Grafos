@@ -12,4 +12,4 @@ Você está com muita fome e precisa escolher onde comer. O problema é que a fo
 ## Explicação rápida do projeto:
 - O projeto se trata de um algoritmo de busca em largura de autoria própria que busca pelo menor caminho possível dentro de um grafo de lista de adjacências.
 - O projeto foi implementado completamente em C.
-- Os grafos para test da solução são gerados aleatoriamente.
+- Os grafos para teste da solução são gerados aleatoriamente.
